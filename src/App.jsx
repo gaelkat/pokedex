@@ -1,4 +1,5 @@
 import PokemonCard from "./components/PokemonCard";
+
 const pokemonList = [
   {
     name: "bulbasaur",
